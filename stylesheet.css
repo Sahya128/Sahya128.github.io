@@ -8,7 +8,7 @@ html {
 body {
     font-family: "Yu gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体","ヒイラギノ角ゴ Pro W3", sans-serif;
     line-height: 1.7;
-    color: #fff;
+    color: #FFF;
     background-color: #432;
 }
 a {
@@ -296,7 +296,7 @@ input[type="submit"] {
 
 /* SNS */
 #sns {
-    background: #432;
+    background: #FAF7F0;
     padding: 4% 0;
 }
 #sns .wrapper {
@@ -415,11 +415,11 @@ input[type="submit"] {
 /* フッター
 ------------------------------------------------*/
 footer {
-    background: #FAF7F0;
+    background: #432;
     text-align: center;
     padding: 26px 0;
 }
 footer p {
-    color: #432;
+    color: #FAF7F0;
     font-size: 0.875rem;
 }
